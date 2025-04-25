@@ -59,6 +59,7 @@ git branch -d dev
 Github/gitlab
 创建仓库
 本地代码推送
-
+git remote add learn_git https://...
+git push -u learn_git master
 
 
