@@ -62,4 +62,5 @@ Github/gitlab
 git remote add learn_git https://...
 git push -u learn_git master
 
-
+git clone 远程仓库地址（可以是别名）
+git checkout 分支
