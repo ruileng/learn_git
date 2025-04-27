@@ -64,3 +64,7 @@ git push -u learn_git master
 
 git clone 远程仓库地址（可以是别名）
 git checkout 分支
+
+从远端仓库更新本地代码
+git pull origin dev
+
